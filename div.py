@@ -10,6 +10,6 @@ pant = pant + 7
 
 print(pant)
 
-saft = "kakepanne"
+saft = "kakepannee"
 
 print("lengden er: ",len(saft))
